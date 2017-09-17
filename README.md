@@ -1,5 +1,6 @@
-UiBot
-(WORK IN PROGRESS)
+# **UiBot**
+
+## (WORK IN PROGRESS)
 School project, where we want to make a chatbot that can give information about class scheduele for UiB.
 
 
